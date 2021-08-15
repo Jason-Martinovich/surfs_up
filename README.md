@@ -4,6 +4,7 @@ The purpose of this analysis was to analyze the weather trends for the months of
 
 ## Results
   -June temperatures range from a low of 64 to a high of 85 degrees fahrenheit, with an average of 75 degrees.
+  
   -December temperatures range from a low of 56 to a high of 83 degrees fahrenheit with an average of 71 degrees.
 
 
